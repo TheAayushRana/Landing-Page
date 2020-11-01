@@ -420,6 +420,8 @@ body{
     	width:30%;
     }
 	.start-btn{
+		width: 125px;
+    		margin-left: 40px;
 	 	font-size: 14px;
 	 	padding:10px 15px;
 	 	margin-top: 15px;
